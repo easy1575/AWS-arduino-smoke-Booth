@@ -9,7 +9,7 @@
 
 1. 먼저 아두이노 코드를 만든다.
 <div>
-<ing width ="100"![33333333333](https://user-images.githubusercontent.com/75929596/102010862-1d363000-3d84-11eb-9569-9b70fb5dd7e6.jpg)
+<ing width ="100"![33333333333](https://user-images.githubusercontent.com/75929596/102010862-1d363000-3d84-11eb-9569-9b70fb5dd7e6.jpg)>
 </div>
 
 2. 람다자바를 통해 DB에 디바이스에서 전송하는 값을 저장한다.
