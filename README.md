@@ -7,14 +7,14 @@
 
 주요기능 : 미세먼지센서가 담배연기로 측정수가 높아지고 특정 값을 넘는 순간 모터모듈이 ON으로 바뀌며 가동된다.
 
-1. 먼저 아두이노 코드를 만든다.
+먼저 아두이노 코드를 만든다.
 
 ![33333333333](https://user-images.githubusercontent.com/75929596/102010862-1d363000-3d84-11eb-9569-9b70fb5dd7e6.jpg)
 
 
 ### java AWS LAMbda 코드작성
 
-2. 람다자바를 통해 DB에 디바이스에서 전송하는 값을 저장한다.
+람다자바를 통해 DB에 디바이스에서 전송하는 값을 저장한다.
 ~~~
     private String persistData(Document document) throws ConditionalCheckFailedException {
         // Epoch Conversion Code: https://www.epochconverter.com/
@@ -72,4 +72,4 @@ class Thing {
 }
 ~~~~
 
-3. RESTAPI를 구현하여 앱으로 디바이스를 제어하게 한다
+ RESTAPI를 구현하여 앱으로 디바이스를 제어하게 한다
