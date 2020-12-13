@@ -14,7 +14,6 @@
 
 
     private String persistData(Document document) throws ConditionalCheckFailedException {
-
         // Epoch Conversion Code: https://www.epochconverter.com/
         SimpleDateFormat sdf = new SimpleDateFormat ( "yyyy-MM-dd HH:mm:ss");
         sdf.setTimeZone(TimeZone.getTimeZone("Asia/Seoul"));
@@ -36,13 +35,11 @@
                         .withString("timestamp",timeString)))
                 .toString();
     }
-
     private void initDynamoDbClient() {
         AmazonDynamoDB client = AmazonDynamoDBClientBuilder.standard().withRegion("ap-northeast-2").build();
 
         this.dynamoDb = new DynamoDB(client);
     }
-
 }
 
 class Document {
