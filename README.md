@@ -9,10 +9,7 @@
 
 1. 먼저 아두이노 코드를 작성한다
 2. 람다자바를 통해 DB에 디바이스에서 전송하는 값을 저장한다.
-
-
-
-
+~~~
     private String persistData(Document document) throws ConditionalCheckFailedException {
         // Epoch Conversion Code: https://www.epochconverter.com/
         SimpleDateFormat sdf = new SimpleDateFormat ( "yyyy-MM-dd HH:mm:ss");
@@ -67,9 +64,6 @@ class Thing {
         }
     }
 }
-
-
-
-
+~~~~
 
 3. RESTAPI를 구현하여 앱으로 디바이스를 제어하게 한다
