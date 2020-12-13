@@ -6,7 +6,7 @@
 결과사진
 <div>
 <img src="https://user-images.githubusercontent.com/75929596/102011164-ee20be00-3d85-11eb-8121-c36849a8e116.png" width="90%"></img>
-/div>
+</div>
           
 ![앱 최신상태](https://user-images.githubusercontent.com/75929596/102011203-26280100-3d86-11eb-9120-36da49743843.jpg)
 
