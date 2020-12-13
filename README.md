@@ -7,7 +7,8 @@
 
 주요기능 : 미세먼지센서가 담배연기로 측정수가 높아지고 특정 값을 넘는 순간 모터모듈이 ON으로 바뀌며 가동된다.
 
-1. 먼저 아두이노 코드를 작성한다
+1. 먼저 아두이노 코드를 만든다.
+
 2. 람다자바를 통해 DB에 디바이스에서 전송하는 값을 저장한다.
 ~~~
     private String persistData(Document document) throws ConditionalCheckFailedException {
