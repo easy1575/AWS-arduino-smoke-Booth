@@ -5,12 +5,10 @@
 
 결과사진
 <div>
-<img src="https://user-images.githubusercontent.com/75929596/102011164-ee20be00-3d85-11eb-8121-c36849a8e116.png" width="90%"></img>
+<img src="https://user-images.githubusercontent.com/75929596/102011164-ee20be00-3d85-11eb-8121-c36849a8e116.png" width=200></img>         
+<img src="https://user-images.githubusercontent.com/75929596/102011203-26280100-3d86-11eb-9120-36da49743843.jpg" width=200></img> 
+
 </div>
-          
-![앱 최신상태](https://user-images.githubusercontent.com/75929596/102011203-26280100-3d86-11eb-9120-36da49743843.jpg)
-
-
 준비물 : 아두이노 MKR WiFi 1010 보드,  GP2Y1010AU0F 센서, DC 모터 모듈 L9110
 
 주요기능 : 미세먼지센서가 담배연기로 측정수가 높아지고 특정 값을 넘는 순간 모터모듈이 ON으로 바뀌며 가동된다. 앱으로 데이터들을 관리하고 모듈을 제어한다.
