@@ -12,6 +12,8 @@
 ![33333333333](https://user-images.githubusercontent.com/75929596/102010862-1d363000-3d84-11eb-9569-9b70fb5dd7e6.jpg)
 
 
+### java AWS LAMbda 코드작성
+
 2. 람다자바를 통해 DB에 디바이스에서 전송하는 값을 저장한다.
 ~~~
     private String persistData(Document document) throws ConditionalCheckFailedException {
