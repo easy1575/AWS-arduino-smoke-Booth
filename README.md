@@ -4,8 +4,10 @@
 공공 흡연부스를 효율적으로 관리하도록 만들었습니다. 구현한 기술로 흡연실 내부 공기질을 파악하여 공기질이 나쁠 시(일정 수치 이상) 정화 시스템이 돌아가며 흡연실 내부를 정화하고, 모든 시스템을 공공 흡연실을 관리하는 사람이 앱으로 관리할 수 있도록 만들었습니다. 
 
 결과사진
-![앱 디바이스](https://user-images.githubusercontent.com/75929596/102011164-ee20be00-3d85-11eb-8121-c36849a8e116.png)
-
+<div>
+<img src="https://user-images.githubusercontent.com/75929596/102011164-ee20be00-3d85-11eb-8121-c36849a8e116.png" width="90%"></img>
+/div>
+          
 ![앱 최신상태](https://user-images.githubusercontent.com/75929596/102011203-26280100-3d86-11eb-9120-36da49743843.jpg)
 
 
